@@ -9,3 +9,4 @@ const myPromise = new Promise((resolve, reject) => {
 myPromise.then((msg) =>console.log(msg))
       .catch((error) => console.log("error occured."))
       // console.log(myPromise);
+w
