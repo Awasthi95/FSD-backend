@@ -6,8 +6,8 @@ const getData = async () =>{
     console.log(res);
 
 } catch (error){
-  console.log("unable to fetch data");
-}}
+  console.log("unable to fetch data")
+}
 getData();
 
 
